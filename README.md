@@ -115,6 +115,25 @@ With a clearly visible how the board will be visible in each of the states found
 
 
 
+### Run locally
 
+**Installation**
+You need to install the the following code.
+
+Or, clone the repository 
+``` 
+git clone https://github.com/nadeemjazmawe/PackmanGame.git
+```
+
+**Runnig**
+First you need to build the game, by building new txt file, and swapping it with input.txt file in src code. or you can use any file from Examples folder.
+
+After that you need to run the Game by running Ex1 file (it can be found in: SearchAlgorithm -> src -> Ex1.java).
+
+And you will get the path to solve the game in the console or in the output.txt file(which will be created).
+
+
+
+**Enjoy!!**
 
 
