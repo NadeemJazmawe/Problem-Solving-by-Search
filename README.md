@@ -7,7 +7,7 @@ Path Finding project for "Problem Solving by Search" Course which implementing d
 * IDA-Star(IDA*)
 * DFBnB
 
-There is no application to GUI , the mean idea is to solve the game using the algorithms, so i hasn't focused on the GUI.
+There’s no GUI to the App, I only focused on solving the game using the algorithms.
 
 ## Overview
 The objective is to solve The "Fix me" game(description of the game is below), by calculating and returning the path to solve the game.
