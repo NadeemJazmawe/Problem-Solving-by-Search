@@ -1,0 +1,14 @@
+DFID
+no open
+big
+R,R,R,R,_
+B,B,B,B,_
+G,G,G,G,_
+Y,Y,Y,Y,_
+_,_,_,_,_
+Goal state:
+R,R,R,_,_
+B,B,B,B,_
+G,G,G,R,_
+Y,Y,Y,G,_
+_,_,_,Y,_

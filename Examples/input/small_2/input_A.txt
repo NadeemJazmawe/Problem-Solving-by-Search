@@ -1,0 +1,10 @@
+A*
+no open
+small
+R,G,_
+_,B,R
+B,G,_
+Goal state:
+B,R,G
+G,_,_
+R,_,B

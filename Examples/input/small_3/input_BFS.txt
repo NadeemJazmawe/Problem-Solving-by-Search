@@ -1,0 +1,10 @@
+BFS
+no open
+small
+R,R,_
+G,B,_
+B,G,_
+Goal state:
+R,R,_
+G,B,_
+G,B,_
